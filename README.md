@@ -21,8 +21,11 @@ My background includes system troubleshooting, log analysis, and automation.
 - Networking fundamentals (DNS, TCP/IP)
 
 ## Repository Structure
-- `case-studies/` – System failures and performance analysis ## Case Studies
+- `case-studies/`
 - [Registry-Level System Corruption Remediation](case-studies/registry-corruption-remediation.md)
+- [Memory Leak Investigation via Long-Running Process Analysis](case-studies/memory-leak-investigation.md)
+- [Silent Data Corruption Due to Failed Background Job](case-studies/silent-data-corruption-analysis.md)
+
 - `diagrams/` – System architecture and data flow diagrams
 - `automation/` – Scripts for analysis and optimization
 - `documentation/` – Technical findings and runbooks
