@@ -27,7 +27,9 @@ My background includes system troubleshooting, log analysis, and automation.
 - [Silent Data Corruption Due to Failed Background Job](case-studies/silent-data-corruption-analysis.md)
 
 - `diagrams/` – System architecture and data flow diagrams
-- `automation/` – Scripts for analysis and optimization
+- `automation/` – ## Automation / Scripts
+- [Disk Space Monitor](automation/disk_space_monitor.py) – Logs system drive usage for trend analysis
+
 - `documentation/` – Technical findings and runbooks
 
 ## Contact
