@@ -1,24 +1,27 @@
-# Systems Analytics Portfolio
-
+# Systems Analyst Portfolio
 ## About Me
-I focus on analyzing system behavior, data flows, and operational performance
-to identify inefficiencies, failures, and optimization opportunities.
-My background includes system troubleshooting, log analysis, and automation.
+I am a Systems Support professional responsible for ensuring the reliability and performance of IT systems environment of approximately 300 computers. I specialize in resolving complex technical issues, monitoring system health, managing Active Directory, and implementing proactive measures to maintain high availability and operational efficiency. My work includes troubleshooting, system optimization, automation, and providing support to end-users and IT teams.
 
 ## Portfolio Focus
-- System performance analysis
-- Log and metrics interpretation
-- Data flow and dependency mapping
-- Root cause analysis
-- Automation for system monitoring and cleanup
+- Advanced system troubleshooting and problem resolution
+- Daily monitoring and maintenance of IT systems to ensure optimal performance
+- Active Directory management and ensuring all computers are domain-connected
+- Event and log analysis for issue identification
+- Performance monitoring and optimization across ~300 workstations
+- Root cause analysis of recurring IT issues
+- Automation for system maintenance, monitoring, and cleanup
+- Supporting cross-functional teams with IT operational insights
 
 ## Technical Skills
-- Windows / Linux systems
-- System logs & event analysis
-- PowerShell / Bash (automation)
-- SQL (data analysis basics)
-- Monitoring concepts (CPU, memory, disk, latency)
-- Networking fundamentals (DNS, TCP/IP)
+- Windows / Linux system administration
+- Active Directory management (user/computer accounts, group policies, domain connectivity)
+- Event and system log analysis
+- PowerShell / Bash scripting for automation
+- SQL basics for data troubleshooting and reporting
+- Monitoring system performance (CPU, memory, disk, latency)
+- Networking fundamentals (DNS, TCP/IP, connectivity troubleshooting)
+- IT operational best practices and documentation
+
 
 ## Repository Structure
 - `case-studies/`
